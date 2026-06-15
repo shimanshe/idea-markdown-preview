@@ -3,13 +3,8 @@ If this plugin helps you, welcome to donate to sustain updates & feature develop
 若本插件对你有用，欢迎捐赠支持持续维护与新功能开发。
 
 ## Donation Channels | 捐赠渠道
-1. GitHub Sponsors
-https://github.com/你的用户名/sponsor
-2. Open Collective (Fiscal Host)
-https://opencollective.com/你的项目名
-3. One-time payment | 一次性打赏
-PayPal: xxx@shturl.
-爱发电(国内): https://afdian.net/a/xxx
+
+<img width="319" height="479" alt="1" src="https://github.com/user-attachments/assets/45b7d098-ec16-46d5-b9ff-eac706fd6b2d" />
 
 ## Fund Usage | 资金用途
 Bug fixes, new feature development, IDE compatibility testing, marketplace fees.
