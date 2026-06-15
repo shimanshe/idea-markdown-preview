@@ -15,4 +15,4 @@ All donors will be listed in the thank-you section; monthly sponsors get priorit
 
 ## Donation Channels | 捐赠渠道
 
-<img width="319" height="479" alt="1" src="https://github.com/user-attachments/assets/45b7d098-ec16-46d5-b9ff-eac706fd6b2d" />
+<img width="319" height="479" alt="alipay" src="https://github.com/user-attachments/assets/10196cbc-9f19-407a-b139-aa881d5a983f" />
